@@ -48,7 +48,7 @@ public class Objeto
     @Override
     public String toString() 
     {
-        return "Objeto{" + "id:" + id + ", nombre:" + nombre;
+        return "Objeto{" + "id:" + id + ", nombre del sujeto o persona a la cual se le ah asignado la variable de tipo nombre:" + nombre;
     }
     
     
